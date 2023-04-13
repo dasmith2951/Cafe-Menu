@@ -46,3 +46,9 @@ h1, h2, p {
     display: inline-block;
 
 }
+
+.established {
+
+    font-style: italic;
+    
+}
