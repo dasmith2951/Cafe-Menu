@@ -19,7 +19,7 @@ h1, h2, p {
     
 }
 
-.flavor {
+.flavor, .dessert {
 
     text-align: left;
     width: 75%;
