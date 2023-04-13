@@ -42,7 +42,8 @@ h1, h2, p {
 hr {
 
     height: 3px;
-    
+    background-color: brown;
+
 }
 
 .flavor, .dessert {
