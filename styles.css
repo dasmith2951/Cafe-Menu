@@ -30,3 +30,9 @@ h1, h2, p {
     text-align: right;
 
 }
+
+.item p {
+
+    display: inline-block;
+
+}
